@@ -6,7 +6,7 @@
 */
 
 /*--------------------------------------------------------------
-# General
+a General
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
@@ -1572,6 +1572,21 @@ section {
   #footer .credits {
     padding-top: 4px;
   }
+}
+.icon-box{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+.icon-box p{
+  display:flex;
+  flex-direction:center;
+  justify-content:center;
+  align-items:center;
+}
+.line2{
+  margin-left:5rem;
 }
 
 /* ===========================
