@@ -368,6 +368,10 @@ h1, h2, h3, h4, h5, h6 {
 #hero .btn-get-started:hover {
   background: #209dd8;
 }
+/* #hero countdown{
+  text-size-adjust: 5.6rem;
+  text-decoration-color: #d6dfe7;
+} */
 #hero .btn-watch-video {
   font-size: 16px;
   display: flex;
